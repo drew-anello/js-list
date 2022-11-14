@@ -1,0 +1,10 @@
+body {
+    background-color: papayawhip;
+}
+form {
+    display: grid;
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 5%;
+
+}
